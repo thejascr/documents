@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-documents
+  description: The collection of all documents
+spec:
+  targets:
+    - ./culture-document.yaml
+    - ./first-document.yaml
