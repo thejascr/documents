@@ -8,3 +8,5 @@ spec:
     - ./culture-document.yaml
     - ./first-document.yaml
     - ./second-document.yaml
+    - ./third-document.yaml
+    - ./fourth-document.yaml
