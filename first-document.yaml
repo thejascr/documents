@@ -1,9 +1,0 @@
-apiVersion: backstage.io/v1alpha1
-kind: Document
-metadata:
-  name: first
-  description: The first document
-  annotations: 
-spec:
-  type: document
-  owner: thejas

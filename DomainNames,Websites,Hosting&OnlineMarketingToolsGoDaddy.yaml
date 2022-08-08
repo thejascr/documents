@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Document
+metadata:
+  name: DomainNames,Websites,Hosting&OnlineMarketingToolsGoDaddy
+  description: https://www.godaddy.com/
+  title: Domain Names, Websites, Hosting & Online Marketing Tools GoDaddy
+spec:
+  type: document
+  owner: thejas

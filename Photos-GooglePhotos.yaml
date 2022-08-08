@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Document
+metadata:
+  name: Photos-GooglePhotos
+  description: https://photos.google.com/
+  title: Photos - Google Photos
+spec:
+  type: document
+  owner: thejas

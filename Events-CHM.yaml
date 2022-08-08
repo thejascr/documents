@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Document
 metadata:
-  name: second
-  description: The second document
-  annotations: 
+  name: Events-CHM
+  description: https://computerhistory.org/events/
+  title: Events - CHM
 spec:
   type: document
   owner: thejas
